@@ -13,7 +13,7 @@
 
 .membro {
     box-sizing: border-box;
-    border-radius: 0px;
+    border-radius: 0;
     text-align: center;
     margin-bottom: 15px;
 }
@@ -48,28 +48,15 @@ ul{
     font-weight: 300 !important;
 }
 
-#destaques > a {
-	display: block;
-	line-height: 60px;
-	height: 60px;
-	padding-left: 70px;
-	position: relative;
-	top: 0;
-	left: 0;
+.destaques {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.destaques > a {
 	font-weight: bold;
 	cursor: pointer;
-}
-
-#destaques > a .icon {
-	width: 40px;
-	height: 40px;
-	position: absolute;
-	top: 10px;
-	left: 10px;
-}
-
-#destaques > a i.icon {
-	font-size: 36px;
-	left: 14px;
-	top: 12px;
+    font-size: 1.1em;
 }
