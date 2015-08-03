@@ -1,49 +1,21 @@
--   url: "http://www.example.com"
-    name: Farol
+-   name: Farol
+    url: "http://www.pet.inf.ufpr.br/farol/"
     active: true
     priority: 1
 
-
--   url: "http://www.example.com"
-    name: "Oficina de Vestibulandos"
-    icon: "fa fa-code"
-    active: true
-    priority: 3
-
-
 -   name: "Processo Seletivo"
-    url: "http://www.example.com"
-    active: false
+    url: "http://https://docs.google.com/forms/d/19NUkKzQOzpT9t4yIEXsvJYY_2Sv4rPfI6peIfGeX_x4/viewform"
+    active: true
     priority: 3
-
-
--   url: "http://www.example.com"
-    name: "Semana dos calouros"
-    active: false
-    priority: 2
-
-
--   url: "http://www.example.com"
-    name: "Feira de profissões"
-    active: true
-    priority: 2
-
-
--   name: "Materiais e apostilas"
-    url: "http://www.example.com"
-    icon: "fa fa-download"
-    active: true
-    priority: 100
-
 
 -   name: "Grupos de estudos"
     url: "projetos/grupos.html"
     active: true
     icon: "fa fa-calendar"
     priority: 4
-    
+
 -   name: "A.D.E.G.A."
     url: "projetos/adega.html"
-    active: false
+    active: true
     icon: "fa fa-bar-chart"
     priority: 8
