@@ -19,7 +19,7 @@ title: PET Computação UFPR
                             <div class="col-1-1">
                             {% endif %}
                                 <h3>
-                                    <a href="{{ post.url }}">{{post.title}}</a>
+                                    <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
                                 </h3>
                                 <p>
                                     {% if post.chamada == "" or post.chamada == nil %}
@@ -60,7 +60,7 @@ title: PET Computação UFPR
                     {% if count > 1 and count <=5 %}
                     <div class="col-1-4">
                         <div class="padding-horizontal">
-                        <h4><a href="{{post.url}}">{{post.title}}</a></h4>
+                        <h4><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h4>
                         <p>
                             {% if post.chamada == "" or post.chamada == nil %}
                                 {{ post.excerpt | strip_html | truncatewords:10 }}
@@ -91,7 +91,7 @@ title: PET Computação UFPR
         {% endif %}
             <h1 class="post-title no-margin">{{ post.title }}</h1>
             <span class="post-time">
-                <a href="{{ post.url }}">
+                <a href="{{ post.url | prepend: site.baseurl }}">
                     <i class="fa fa-calendar"></i> {{ post.date | date: "%d/%m/%y" }}
                 </a>
             </span>
@@ -103,7 +103,7 @@ title: PET Computação UFPR
                         {{ post.chamada }}
                     {% endif %}
                     <br/>
-                    <a href="{{ post.url }}">Leia mais...</a>
+                    <a href="{{ post.url | prepend: site.baseurl }}">Leia mais...</a>
                 </p>
             </div>
             <div>
