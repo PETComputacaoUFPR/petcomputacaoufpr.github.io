@@ -1,0 +1,25 @@
+---
+layout: default
+title: Projetos Antigos
+header: true
+---
+
+<section class="content padding-vertical margin-vertical page-wrap">
+    <article class="card">
+        <p class="text-center">Projetos Antigos:</p>
+        <div class="text-left">
+            <ul class="margin-horizontal">
+                {% for projeto in site.data.projetos.antigos %}
+                <li class="margin-vertical">
+                    <strong>{{projeto.name}}</strong> {% if projeto.description != nil%} - {{projeto.description}} {% endif%}
+                    <p>Ano de término: {{projeto.year}}</p>
+                    <p>Equipe:</p>
+                        {% for membro in projeto.equipe %}
+                            - {{membro}} <br>
+                        {% endfor %}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </article>
+</section>
