@@ -3,9 +3,9 @@
     <label for="toggle" class="menu-toggle" onclick></label>
     <input type="checkbox" class="menu-toggle" id="toggle"/>
     <ul class="nav-itens all-caps">
-        <li><a href="/sobre.html">Sobre nós</a></li>
-        <li><a href="/membros.html">Membros</a></li>
-        <li><a href="/projetos.html">Cursos e Projetos</a></li>
-        <li><a href="/contato.html">Contato</a></li>
+        <li><a href="{{ "sobre.html" | prepend: site.baseurl }}">Sobre nós</a></li>
+        <li><a href="{{ "membros.html" | prepend: site.baseurl }}">Membros</a></li>
+        <li><a href="{{ "projetos.html" | prepend: site.baseurl }}">Cursos e Projetos</a></li>
+        <li><a href="{{ "contato.html" | prepend: site.baseurl }}">Contato</a></li>
     </ul>
 </nav>
