@@ -6,16 +6,13 @@ header: true
 ---
 
 # O que é?
-Motivados pelo conceito de Computação Ubíqua, queremos utilizar as placas Arduino
-para aplicações diversas. O projeto inclui pesquisas sobre como usar as ferramentas 
-de Arduino existentes no PET (sua programação e circuitos eletrônicos) e a montagem
-de protótipos baseados em ideias levantadas pelos membros do projeto.
+Com base em conceitos da Computação Ubíqua, Internet das Coisas e Descoberta de Recursos, procura-se desenvolver um protocolo de rede que permita a comunicação entre diversos dispositivos, com o intuito de aplicar a Computação Ubíqua na automação residencial.
 
 # Equipe
-* André
+* Bruno
+* Gabriel
 * Ivo
-* Jedian
-* Letícia
+* **Letícia**
 
 
 # Arquivos e downloads
