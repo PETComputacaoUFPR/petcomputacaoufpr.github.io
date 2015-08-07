@@ -6,24 +6,17 @@ header: true
 ---
 
 # O que é?
-O {{page.title}} é maravilhoso, 11/10, ganhou vários prêmios e é reconhecido 
-internacionalmente. Ele serve para tantas coisas que é impossível descrever sua
-utilidade para a sociedade, sendo inúmeras as possibilidades. Vem sendo desenvolvido
-em várias linguagens e resolve vários problemas, tantos problemas que justifica o uso
-de tantas linguagens.
+O projeto deve funcionar como uma ferramenta de apoio didático para a disciplina de Fisiologia para Informática Biomédica. Trata-se de um *software* que auxilia no ensino do funcionamento hormonal de um organismo. A disciplina tem 
+uma atividade didática chamada de "Ratinhos Virtuais", que é feita, na verdade, sem apoio tecnológico; sua realização consiste apenas em estimular os alunos a exercitar seus conhecimentos sobre atividades hormonais e feedback negativo em seres vivos e a deduzir logicamente o estado final das glândulas de camundongos fictícios submetidos à injeção de uma série de hormônios
 
 # Objetivos
-O objetivo desse projeto é ser o melhor projeto de todos e ganhar vários prêmios 
-e levar seus membros para o sucesso, além de fazer inúmeras contribuições para a
-ciência e gerar uma tonelada de conhecimentos.
+O objetivo desse projeto é conseguir construir um *software* que seja capaz de oferecer essa mesma atividade
+de maneira, de fato, digital, com um algorítmo capaz de deduzir computacionalmente o estado final das tais
+glândulas a fins de correção.
 
 # Equipe
 * Ana Beatriz
-* Gabriel
 * Bruno
 * **Daniel**
+* Gabriel
 * Julia
-* Mayara
-
-# Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).
