@@ -14,7 +14,7 @@ O objetivo desse projeto é conseguir construir um *software* que seja capaz de 
 de maneira, de fato, digital, com um algorítmo capaz de deduzir computacionalmente o estado final das tais
 glândulas a fins de correção.
 
-# Equipe
+# Equipe 
 * Ana Beatriz
 * Bruno
 * **Daniel**
