@@ -5,11 +5,11 @@ chamada: A semana ocorre do dia 23 à 27 de fevereiro. Saiba mais!
 date:   2015-01-16 17:55:34
 featured: true
 tags:
-  - semana de recepção
+  - semana-de-recepção
   - ufpr
 ---
-O PET Computação dá as boas vindas aos novos alunos dos cursos de Ciência da 
-Computação e Informática Biomédica da UFPR. E para fazer a recepção dos alunos 
+O PET Computação dá as boas vindas aos novos alunos dos cursos de Ciência da
+Computação e Informática Biomédica da UFPR. E para fazer a recepção dos alunos
 existe a **Semana de Recepção dos Calouros** que em 2015 vai acontecer de 23 a 27 de
 fevereiro, em paralelo com a primeira semana de aulas do semestre.
 

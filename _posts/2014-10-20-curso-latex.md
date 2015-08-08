@@ -4,7 +4,7 @@ title:  Feira de Profissões 2014
 chamada: A feira de profissões 2014 da UFPR já tem data. Quer participar?
 date:   2014-08-11 11:24:25
 tags:
-  - feira de profissões
+  - feira-de-profissões
   - ufpr
 ---
 A feira de profissões da UFPR aconteceu entre os dias 22/08 à 24/08, das 9 às 18 horas

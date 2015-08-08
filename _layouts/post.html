@@ -31,6 +31,12 @@
                   <div class="post-content">
                       {{ content }}
                   </div>
+                  <div>
+                      Tags:
+                      {% for tag in page.tags %}
+                      <span class="tag"><a href="/tag/{{tag}}">{{tag}}</a></span>
+                      {% endfor %}
+                  </div>
               </article>
             </div>
         </div>
