@@ -1,10 +1,10 @@
 -   name: Farol
-    url: "http://www.pet.inf.ufpr.br/farol/"
+    url: "http://pet.inf.ufpr.br/farol/"
     active: true
     priority: 1
 
 -   name: "Processo Seletivo"
-    url: "http://https://docs.google.com/forms/d/19NUkKzQOzpT9t4yIEXsvJYY_2Sv4rPfI6peIfGeX_x4/viewform"
+    url: "https://docs.google.com/forms/d/19NUkKzQOzpT9t4yIEXsvJYY_2Sv4rPfI6peIfGeX_x4/viewform"
     active: true
     priority: 3
 
