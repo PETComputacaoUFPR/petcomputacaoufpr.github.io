@@ -1,20 +1,39 @@
----
-layout: default
----
-<header class="header positive padding">
-    <div>
-        <a href="/index.html"><i class="fa fa-chevron-left"></i> Voltar</a>
-    </div>
-    <div class="center-block text-center">
-        <h1 class="logo">{{ page.title }}</h1>
-        <h3>{{ page.chamada }}</h3>
-        <span class="post-time">{{ page.date | date:"Postado %d/%m/%y, às %R" }}</span>
-    </div>
-</header>
-<div class="content">
-  <article class="post card margin-vertical">
-      <div class="post-content">
-          {{ content }}
-      </div>
-  </article>
-</div>
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+
+    {% include post_head.html %}
+    <style>
+
+    </style>
+    <body>
+        {% include nav.html %}
+        <div class="page-wrap">
+            {% if page.header %}
+            <header class="header dark padding-vertical">
+                <div class="center-block text-center">
+                    <h1 class="logo">{{ page.title }}</h1>
+                </div>
+            </header>
+            {% endif %}
+
+            <header class="header positive padding">
+                <div>
+                    <a href="/index.html"><i class="fa fa-chevron-left"></i> Voltar</a>
+                </div>
+                <div class="center-block text-center">
+                    <h1 class="logo">{{ page.title }}</h1>
+                    <h3>{{ page.chamada }}</h3>
+                    <span class="post-time">{{ page.date | date:"Postado %d/%m/%y, às %R" }}</span>
+                </div>
+            </header>
+            <div class="content">
+              <article class="post card margin-vertical">
+                  <div class="post-content">
+                      {{ content }}
+                  </div>
+              </article>
+            </div>
+        </div>
+        {% include footer.html %}
+    </body>
+</html>
