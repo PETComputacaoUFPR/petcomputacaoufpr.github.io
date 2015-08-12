@@ -1,7 +1,7 @@
 ---
 title: Grupos de Estudos
 eixo: ensino
-layout: pet
+layout: projeto
 header: true
 tag: grupo-estudos
 ---
