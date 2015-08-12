@@ -1,7 +1,7 @@
 ---
 title: Curso de Informática para Imigrantes
 eixo: extensao
-layout: pet
+layout: projeto
 header: true
 tag: curso-imigrantes
 ---

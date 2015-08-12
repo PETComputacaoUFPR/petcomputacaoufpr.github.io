@@ -1,8 +1,9 @@
 ---
 title: Oficina de Vestibulandos
 eixo: extensao
-layout: pet
+layout: projeto
 header: true
+tag: oficina-vestibulandos
 ---
 
 # O que é?
@@ -16,6 +17,3 @@ A Oficina de Vestibulandos é um projeto do grupo PET Computação UFPR. Ele tem
 * Mayara
 * Julia
 * Vytor
-
-# Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).

@@ -1,7 +1,7 @@
 ---
 title: InterPET nas Escolas
 eixo: extensao
-layout: pet
+layout: projeto
 header: true
 tag: interpet
 ---

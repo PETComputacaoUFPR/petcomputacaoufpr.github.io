@@ -1,7 +1,7 @@
 ---
 title: J.A.R.V.I.S.
 eixo: pesquisa
-layout: pet
+layout: projeto
 header: true
 tag: jarvis
 ---
@@ -14,7 +14,3 @@ Com base em conceitos da Computação Ubíqua, Internet das Coisas e Descoberta 
 * Gabriel
 * Ivo
 * **Letícia**
-
-
-# Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).

@@ -1,7 +1,7 @@
 ---
 title: Fisiologia Digital
 eixo: pesquisa
-layout: pet
+layout: projeto
 header: true
 tag: fisiologia-digital
 ---

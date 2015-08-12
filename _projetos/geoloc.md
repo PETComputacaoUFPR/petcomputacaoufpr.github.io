@@ -1,7 +1,7 @@
 ---
 title: Geolocalização
 eixo: pesquisa
-layout: pet
+layout: projeto
 header: true
 tag: geoloc
 ---

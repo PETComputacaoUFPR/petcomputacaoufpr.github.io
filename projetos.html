@@ -12,37 +12,37 @@ header: true
             <div class="col-1-3 col-md-1-1">
                 <h2>Pesquisa:</h2>
                 <ul class="margin-horizontal" style="columns: 3">
-                    
+
                     {% for projeto in site.projetos %}
                     {% if projeto.eixo == 'pesquisa' %}
-                    <li><a href="{{ projeto.url }}">{{ projeto.title }}</a></li>
+                    <li><a href="{{ projeto.url | prepend: site.baseurl }}">{{ projeto.title }}</a></li>
                     {% endif %}
                     {% endfor %}
-                    
+
                 </ul>
             </div>
             <div class="col-1-3 col-md-1-1">
                 <h2>Ensino:</h2>
                 <ul class="margin-horizontal" style="columns: 3">
-                    
+
                     {% for projeto in site.projetos %}
                     {% if projeto.eixo == 'ensino' %}
-                    <li><a href="{{ projeto.url }}">{{ projeto.title }}</a></li>
+                    <li><a href="{{ projeto.url | prepend: site.baseurl }}">{{ projeto.title }}</a></li>
                     {% endif %}
                     {% endfor %}
-                    
+
                 </ul>
             </div>
             <div class="col-1-3 col-md-1-1">
                 <h2>Extensão:</h2>
                 <ul class="margin-horizontal" style="columns: 3">
-                    
+
                     {% for projeto in site.projetos %}
                     {% if projeto.eixo == 'extensao' %}
-                    <li><a href="{{ projeto.url }}">{{ projeto.title }}</a></li>
+                    <li><a href="{{ projeto.url | prepend: site.baseurl }}">{{ projeto.title }}</a></li>
                     {% endif %}
                     {% endfor %}
-                    
+
                 </ul>
             </div>
         </div>
@@ -52,6 +52,6 @@ header: true
             <li><a href="{{ outros.link }}" tooltip="{{ outros.description }}">{{ outros.name }}</a></li>
             {% endfor %}
         </ul>
-        <p class="text-left">Veja também nossos <a href="">projetos antigos</a>.</p>
+        <p class="text-left">Veja também nossos <a href="{{"projetos/antigos.html" | prepend: site.baseurl}}">projetos antigos</a>.</p>
     </article>
 </section>

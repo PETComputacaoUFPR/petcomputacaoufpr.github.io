@@ -1,7 +1,7 @@
 ---
 title: A.D.E.G.A.
 eixo: ensino
-layout: pet
+layout: projeto
 header: true
 tag: adega
 ---
@@ -14,8 +14,8 @@ Disponibilizar as informações obtidas para os coordenadores e membros de coleg
 
 # Equipe
 * Daniel Rufasto
-* João Denis
-* **Jomaro Rodrigues**
+* Davisson Paulino
+* **João Denis**
 
 # Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).
+* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/adega).

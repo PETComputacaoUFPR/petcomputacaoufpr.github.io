@@ -1,0 +1,27 @@
+{
+  "name": "petcomputacaoufpr.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "markdown": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PETComputacaoUFPR/petcomputacaoufpr.github.io.git"
+  },
+  "keywords": [
+    "PET",
+    "UFPR"
+  ],
+  "author": "Vytor Calixto <vytorcalixto@gmail.com> (https://github.com/VytorCalixto)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/PETComputacaoUFPR/petcomputacaoufpr.github.io/issues"
+  },
+  "homepage": "https://github.com/PETComputacaoUFPR/petcomputacaoufpr.github.io#readme"
+}

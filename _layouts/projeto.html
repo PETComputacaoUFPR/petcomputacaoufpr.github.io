@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="content">
+    <div class="card margin-vertical">
+        {{ content }}
+    </div>
+    <div class="card">
+        <h2>Publicações Relacionadas</h2>
+    {% assign size = 0 %}
+    {% for post in site.posts %}
+        <ul>
+        {% for tag in post.tags %}
+            {% if tag == page.tag or tag == page.title %}
+            {% assign size = 1 %}
+            <li><a href="{{post.url}}" target="_blank">{{post.title}}</a></li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+    {% endfor %}
+    {% if size == 0 %}
+        <h4>Não existem publicações sobre esse projeto</h4>
+    {% endif %}
+    </div>
+</div>

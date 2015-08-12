@@ -1,0 +1,32 @@
+- name: Robô
+  equipe:
+      - Alexandre
+      - Giancarlo
+      - Thiago
+      - Álan
+      - Cainã
+      - Clara
+      - Larissa
+      - Paulo
+      - Cristian
+  description: Desenvolver um robô capaz de realizar percursos demarcados por uma linha desenhada no chão, seguir um objeto em movimento e desviar de obstáculos. As informações do seu entorno serão obtidas pelos sensores do Kinect, processadas em um microcontrolador Arduino e transmitidas para um microprocessador FPGA que realizará o acionamento elétrico dos motores.
+  year: 2012
+
+- name: Mapa de Reprovações
+  equipe:
+      - Alexandre
+  description: Investigar o desempenho e a taxa de abandono dos alunos do curso de Ciência da Computação - UFPR, através de dados fornecidos pelo Departamento de Informática. Comparar os Índices de Rendimento Acadêmico dos alunos da nossa universidade com o de outras Instituições de Ensino Superior.
+  year: 2012
+
+- name: Grupos de Estudo
+  equipe:
+      - Paulo
+  description: Realizar grupos de estudos abertos aos alunos do curso durante os períodos de provas, nas disciplinas que os alunos possuem maior dificuldade. Nos Grupos de Estudo são feitas revisões do conteúdo e resoluções de exercícios em grupo. Contamos com o auxílio dos monitores das disciplinas.
+  year: 2012
+
+- name: MIPS/FPGA
+  equipe:
+      - Álan
+      - Jonatan
+      - Victor
+  year: 2013

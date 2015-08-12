@@ -5,7 +5,7 @@ chamada: As inscrições para o processo seletivo estão abertas. Veja mais info
 date:   2015-03-16 17:55:34
 featured: true
 tags:
-  - processo seletivo
+  - processo-seletivo
   - pet
 ---
 As inscrições para o processo seletivo 2015 do PET ficarão abertas de 04 à 16 de Março.

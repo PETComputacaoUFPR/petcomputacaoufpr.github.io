@@ -1,18 +1,19 @@
 ---
-title: Cartão do R.U.
+title: Framework PHP
 eixo: pesquisa
-layout: pet
+layout: projeto
 header: true
+tag: framework-php
 ---
 
 # O que é?
-O projeto foca no desenvolvimento de um framework web full-stack em php, ou seja, dando um suporte quase completo para o desenvolvedor, desde o controle do armazenamento de dados até um auxilio com a camada de visualização. 
+O projeto foca no desenvolvimento de um framework web full-stack em php, ou seja, dando um suporte quase completo para o desenvolvedor, desde o controle do armazenamento de dados até um auxilio com a camada de visualização.
 
 ## Módulos:
 Gerenciamento de requisição e resposta HTTP - Em desenvolvimento  
 * MVC  
 * DB  
-* Outros 
+* Outros
 
 
 # Equipe
@@ -20,6 +21,3 @@ Gerenciamento de requisição e resposta HTTP - Em desenvolvimento
 * Letícia Pasdiora
 * Victor Mocelin
 * Vytor Calixto
-
-# Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).
