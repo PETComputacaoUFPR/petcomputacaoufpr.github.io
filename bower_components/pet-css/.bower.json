@@ -1,6 +1,6 @@
 {
   "name": "pet-css",
-  "version": "0.1.2-pre",
+  "version": "0.1.3-pre",
   "homepage": "https://github.com/PETComputacaoUFPR/pet-css",
   "authors": [
     "PET Computação UFPR <pet@inf.ufpr.br>"
@@ -20,14 +20,13 @@
     "test",
     "tests"
   ],
-  "_release": "0.1.2-pre",
+  "_release": "0.1.3-pre",
   "_resolution": {
     "type": "version",
-    "tag": "v0.1.2-pre",
-    "commit": "acf07398a0556e0b9ad779b4f63825a518cc31bc"
+    "tag": "v0.1.3-pre",
+    "commit": "96b75bbd0cd48308c9f0d54d5bd28e0e0c4e7e43"
   },
   "_source": "git://github.com/PETComputacaoUFPR/pet-css.git",
   "_target": "~0.1.2-pre",
-  "_originalSource": "pet-css",
-  "_direct": true
+  "_originalSource": "pet-css"
 }

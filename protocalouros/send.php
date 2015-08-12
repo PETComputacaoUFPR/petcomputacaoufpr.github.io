@@ -9,7 +9,7 @@ if(isset($_POST['fields'])){
 		$met = $fields['met'];
 
 
-		$db = new SQLite3('data.db');
+		$db = new SQLite3('../../_data/data.db');
 
 		if($db){
 			$stmt = $db->prepare("INSERT INTO inscricao (email,name,met) VALUES (:email,:name,:met)");
