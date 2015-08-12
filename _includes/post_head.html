@@ -15,7 +15,7 @@
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
     <meta name="twitter:description" content="{% if page.chamada %}{{page.chamada}}{% else %}{{page.excerpt | strip_html | truncatewords:75 | strip_newlines}}{% endif %}"/>
-    {% if page.image %}<meta name="twitter:image:src" content="{page.image}"/>{% endif %}
+    {% if page.image %}<meta name="twitter:image:src" content="{{page.image}}"/>{% endif %}
 
     <link rel="stylesheet" href="{{ "bower_components/pet-css/css/style.css"  | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "css/pet.css" | prepend: site.baseurl }}">
