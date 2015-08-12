@@ -3,24 +3,18 @@ title: InterPET nas Escolas
 eixo: extensao
 layout: projeto
 header: true
+tag: interpet
 ---
 
 # O que é?
-O {{page.title}} é maravilhoso, 11/10, ganhou vários prêmios e é reconhecido
-internacionalmente. Ele serve para tantas coisas que é impossível descrever sua
-utilidade para a sociedade, sendo inúmeras as possibilidades. Vem sendo desenvolvido
-em várias linguagens e resolve vários problemas, tantos problemas que justifica o uso
-de tantas linguagens.
-
-# Objetivos
-O objetivo desse projeto é ser o melhor projeto de todos e ganhar vários prêmios
-e levar seus membros para o sucesso, além de fazer inúmeras contribuições para a
-ciência e gerar uma tonelada de conhecimentos.
+O projeto aliado ao Programa Comunidade Escola, realizado pela Prefeitura Municipal de Curitiba, busca aplicar o conceito de interdisciplinaridade, envolvendo grupos PET de diversas áreas em atividades comuns de extensão. Periodicamente, um grupo PET se encarrega de desenvolver e planejar uma destas atividades, de conteúdo relacionado ao seu próprio curso e de metodologia lúdica e dinâmica, coerente com a faixa etária visada. O grupo então explica aos outros envolvidos, em detalhes, como deve proceder a aplicação da atividade. Por fim, marca-se dia e horário junto à coordenação do Comunidade Escola.
 
 # Equipe
-* Asd
-* Wasd
-* **Daws**
-
-# Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).
+* Ana Beatriz
+* André Felipe
+* André Luis
+* Bruno
+* Ivo
+* Jedian
+* Julia
+* Victor

@@ -3,24 +3,17 @@ title: Oficina de Vestibulandos
 eixo: extensao
 layout: projeto
 header: true
+tag: oficina-vestibulandos
 ---
 
 # O que é?
-O {{page.title}} é maravilhoso, 11/10, ganhou vários prêmios e é reconhecido
-internacionalmente. Ele serve para tantas coisas que é impossível descrever sua
-utilidade para a sociedade, sendo inúmeras as possibilidades. Vem sendo desenvolvido
-em várias linguagens e resolve vários problemas, tantos problemas que justifica o uso
-de tantas linguagens.
-
-# Objetivos
-O objetivo desse projeto é ser o melhor projeto de todos e ganhar vários prêmios
-e levar seus membros para o sucesso, além de fazer inúmeras contribuições para a
-ciência e gerar uma tonelada de conhecimentos.
+A Oficina de Vestibulandos é um projeto do grupo PET Computação UFPR. Ele tem como objetivo fornecer aos vestibulandos e a quem mais tiver interesse nos cursos de  Ciência da Computação e Informática Biomédica uma noção aprimorada desses cursos, esclarecendo dúvidas em relação aos dois cursos e também as diferenças em relação aos outros da área. E não apenas isso, a Oficina de Vestibulandos busca proporcionar um pouco do que é ser um cientista da computação e um informata biomédico. Para tal será realizada uma palestra e uma oficina de programação.
 
 # Equipe
-* Asd
-* Wasd
-* **Daws**
-
-# Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).
+* Ana
+* **André Felipe**
+* Jomaro
+* Davisson
+* Mayara
+* Julia
+* Vytor

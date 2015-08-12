@@ -3,24 +3,19 @@ title: A.D.E.G.A.
 eixo: ensino
 layout: projeto
 header: true
+tag: adega
 ---
 
 # O que é?
-O {{page.title}} é maravilhoso, 11/10, ganhou vários prêmios e é reconhecido
-internacionalmente. Ele serve para tantas coisas que é impossível descrever sua
-utilidade para a sociedade, sendo inúmeras as possibilidades. Vem sendo desenvolvido
-em várias linguagens e resolve vários problemas, tantos problemas que justifica o uso
-de tantas linguagens.
+O {{page.title}} (Análise de Dados Estatísticos da Grade Acadêmica) tem como objetivo de desenvolver estudos sobre os cursos de graduacão por meio de técnicas de análise de dados como forma de obter informações sobre os cursos de graduação. O sistema projetado ira realizar as análises autonomamente e possuirá uma interface amigável para que possa ser operado por professores e coordenadores de cursos não ligados à área de computação.
 
 # Objetivos
-O objetivo desse projeto é ser o melhor projeto de todos e ganhar vários prêmios
-e levar seus membros para o sucesso, além de fazer inúmeras contribuições para a
-ciência e gerar uma tonelada de conhecimentos.
+Disponibilizar as informações obtidas para os coordenadores e membros de colegiado para que possam identificar as disciplinas com elevados índices de reproações e em quais períodos ocorrem o maior numero de evasões dos alunos, assim tornando possível a realização de mudanças mais eficientes nos cursos.
 
 # Equipe
-* Asd
-* Wasd
-* **Daws**
+* Daniel Rufasto
+* Davisson Paulino
+* **João Denis**
 
 # Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).
+* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/adega).

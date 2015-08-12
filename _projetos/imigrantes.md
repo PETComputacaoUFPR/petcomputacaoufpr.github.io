@@ -3,24 +3,21 @@ title: Curso de Informática para Imigrantes
 eixo: extensao
 layout: projeto
 header: true
+tag: curso-imigrantes
 ---
 
 # O que é?
-O {{page.title}} é maravilhoso, 11/10, ganhou vários prêmios e é reconhecido
-internacionalmente. Ele serve para tantas coisas que é impossível descrever sua
-utilidade para a sociedade, sendo inúmeras as possibilidades. Vem sendo desenvolvido
-em várias linguagens e resolve vários problemas, tantos problemas que justifica o uso
-de tantas linguagens.
+Ensinar informática básica e capacitá-los para o mercado de trabalho no Brasil.
+O conteúdo abordado vai desde digitação e utilização de periféricos, uso de pacotes
+office até resolução de problemas mais simples. Em conjunto desse conhecimento,
+visamos praticar o idioma local para que eles se habituem. Adiante pretendemos
+seguir com um curso avançado. Com enfoque em lógica e linguagens de programação.
 
-# Objetivos
-O objetivo desse projeto é ser o melhor projeto de todos e ganhar vários prêmios
-e levar seus membros para o sucesso, além de fazer inúmeras contribuições para a
-ciência e gerar uma tonelada de conhecimentos.
+# Local e horário
+O curso ocorre todo sábado à tarde no prédio da reitoria da UFPR.
 
 # Equipe
-* Asd
-* Wasd
-* **Daws**
-
-# Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).
+* Gabriel
+* André
+* João Denis
+* **Luis Allan**

@@ -3,24 +3,14 @@ title: J.A.R.V.I.S.
 eixo: pesquisa
 layout: projeto
 header: true
+tag: jarvis
 ---
 
 # O que é?
-O {{page.title}} é maravilhoso, 11/10, ganhou vários prêmios e é reconhecido
-internacionalmente. Ele serve para tantas coisas que é impossível descrever sua
-utilidade para a sociedade, sendo inúmeras as possibilidades. Vem sendo desenvolvido
-em várias linguagens e resolve vários problemas, tantos problemas que justifica o uso
-de tantas linguagens.
-
-# Objetivos
-O objetivo desse projeto é ser o melhor projeto de todos e ganhar vários prêmios
-e levar seus membros para o sucesso, além de fazer inúmeras contribuições para a
-ciência e gerar uma tonelada de conhecimentos.
+Com base em conceitos da Computação Ubíqua, Internet das Coisas e Descoberta de Recursos, procura-se desenvolver um protocolo de rede que permita a comunicação entre diversos dispositivos, com o intuito de aplicar a Computação Ubíqua na automação residencial.
 
 # Equipe
-* Asd
-* Wasd
-* **Daws**
-
-# Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).
+* Bruno
+* Gabriel
+* Ivo
+* **Letícia**

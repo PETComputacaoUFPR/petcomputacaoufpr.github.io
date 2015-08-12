@@ -1,26 +1,20 @@
 ---
-title: Jogo Para Apoio Psicológico
+title: J.A.P.A.
 eixo: pesquisa
 layout: projeto
 header: true
+tag: japa
 ---
 
 # O que é?
-O {{page.title}} é maravilhoso, 11/10, ganhou vários prêmios e é reconhecido
-internacionalmente. Ele serve para tantas coisas que é impossível descrever sua
-utilidade para a sociedade, sendo inúmeras as possibilidades. Vem sendo desenvolvido
-em várias linguagens e resolve vários problemas, tantos problemas que justifica o uso
-de tantas linguagens.
+
+O {{page.title}} (Jogo de Apoio Psicológico para Autistas) consiste na implementação de um aplicativo de plataforma móvel Android, que ajude no tratamento de crianças da faixa etária entre 5 e 10 anos com desordens de espectro autista. O embassamento teórico obteve ajuda da pedagoga Christiane Dluhosch, que segue a metodologia Son-rise no tratamento de seus pacientes.
 
 # Objetivos
-O objetivo desse projeto é ser o melhor projeto de todos e ganhar vários prêmios
-e levar seus membros para o sucesso, além de fazer inúmeras contribuições para a
-ciência e gerar uma tonelada de conhecimentos.
+O objetivo desse projeto é combinar a necessidade de estudo dos jogos digitais a essa instância social. Este jogo almeja ajudar no tratamento, estimulando seis principais itens: coordenação motora fina e grossa, diferenciação de expressões faciais, seriação, inferência e comparação.
 
 # Equipe
-* Asd
-* Wasd
-* **Daws**
-
-# Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).
+* **Ana Beatriz**
+* André Starosta
+* Ivo
+* Julia
