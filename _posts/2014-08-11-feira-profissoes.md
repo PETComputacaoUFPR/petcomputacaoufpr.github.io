@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  Curso de LaTeX
-date:   2014-10-20 11:24:25
-featured: true
+title:  Feira de Profissões 2014
+chamada: A feira de profissões 2014 da UFPR já tem data. Quer participar?
+date:   2014-08-11 11:24:25
 tags:
-  - curso
-  - latex
+  - feira-profissões
   - ufpr
 ---
-O [curso de LaTeX]() aconteceu em 2014 entre os dias 03/nov e 07/nov e já está encerrado. Os certificados já estão disponíveis e podem ser retirados no PET Computação, próximo ao DInf.
+A feira de profissões da UFPR aconteceu entre os dias 22/08 à 24/08, das 9 às 18 horas
 
-Para novas edições, fiquem atentos.
+A iniciativa, que apresenta os cursos de graduação e atividades relacionadas ao ensino, tem como principal público os alunos do ensino médio, de escolas públicas e particulares. A UFPR: Cursos e Profissões é um evento gratuito, aberto a todos: estudantes e seus familiares, professores, profissionais de educação ou interessados em conhecer o que a Universidade Federal do Paraná tem a oferecer.
+
+Acompanhe o site e a página no [Facebook](https://www.facebook.com/petcompufpr) para obter informações caso queira trabalhar na feira!

@@ -3,24 +3,8 @@ title: Curso de ShellScript
 eixo: ensino
 layout: projeto
 header: true
+tag: curso-shell
 ---
 
 # O que é?
-O {{page.title}} é maravilhoso, 11/10, ganhou vários prêmios e é reconhecido
-internacionalmente. Ele serve para tantas coisas que é impossível descrever sua
-utilidade para a sociedade, sendo inúmeras as possibilidades. Vem sendo desenvolvido
-em várias linguagens e resolve vários problemas, tantos problemas que justifica o uso
-de tantas linguagens.
-
-# Objetivos
-O objetivo desse projeto é ser o melhor projeto de todos e ganhar vários prêmios
-e levar seus membros para o sucesso, além de fazer inúmeras contribuições para a
-ciência e gerar uma tonelada de conhecimentos.
-
-# Equipe
-* Asd
-* Wasd
-* **Daws**
-
-# Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).
+O curso de shell script busca ampliar o conteúdo do curso de linux oferecido pelo grupo apresentando uma linguagem de script alto nível, que permite combinar os diversos programas instalados em um computador criando facilmente pequenas aplicações úteis no dia-a-dia.

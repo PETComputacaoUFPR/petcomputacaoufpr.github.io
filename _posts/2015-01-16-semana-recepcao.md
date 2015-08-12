@@ -5,7 +5,7 @@ chamada: A semana ocorre do dia 23 à 27 de fevereiro. Saiba mais!
 date:   2015-01-16 17:55:34
 featured: true
 tags:
-  - semana-de-recepção
+  - semana-recepção
   - ufpr
 ---
 O PET Computação dá as boas vindas aos novos alunos dos cursos de Ciência da

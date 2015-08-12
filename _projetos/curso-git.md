@@ -3,24 +3,25 @@ title: Curso de Git
 eixo: ensino
 layout: projeto
 header: true
+tag: curso-git
 ---
 
 # O que é?
-O {{page.title}} é maravilhoso, 11/10, ganhou vários prêmios e é reconhecido
-internacionalmente. Ele serve para tantas coisas que é impossível descrever sua
-utilidade para a sociedade, sendo inúmeras as possibilidades. Vem sendo desenvolvido
-em várias linguagens e resolve vários problemas, tantos problemas que justifica o uso
-de tantas linguagens.
+O PET Computação oferece o curso básico de git, um sistema de controle de versão.
+Esta ferramenta é muito útil para os estudantes dos cursos do departamento de informática,
+auxiliando o uso da plataforma [GitLab](https://gitlab.c3sl.ufpr.br), disponibilizada pelo C3SL.
 
-# Objetivos
-O objetivo desse projeto é ser o melhor projeto de todos e ganhar vários prêmios
-e levar seus membros para o sucesso, além de fazer inúmeras contribuições para a
-ciência e gerar uma tonelada de conhecimentos.
+# Conteúdo
+* Controle de Versão
+* Introdução ao Git
+* Comandos Básicos
+* Branching
+* Forking
+* Fluxo de trabalho
 
 # Equipe
-* Asd
-* Wasd
-* **Daws**
+* **Davisson Paulino**
+* Vytor Calixto
 
 # Arquivos e downloads
-* Código fonte disponível no [GitLab](https://gitlab.c3sl.ufpr.br/pet/).
+* Instruções básicas de Git estão disponívels no [GitLab](https://gitlab.c3sl.ufpr.br/pet/treinamentoGit/wikis/home).
