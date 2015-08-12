@@ -3,6 +3,7 @@ title: A.D.E.G.A.
 eixo: ensino
 layout: pet
 header: true
+tag: adega
 ---
 
 # O que é?

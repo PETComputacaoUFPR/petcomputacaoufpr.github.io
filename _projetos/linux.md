@@ -3,6 +3,7 @@ title: Curso de Linux
 eixo: ensino
 layout: pet
 header: true
+tag: curso-linux
 ---
 
 # O que é?
@@ -11,5 +12,5 @@ Linux para os novos alunos do curso. Nestas aulas são abordados comandos básic
 da linha de comando, assim como acesso às contas pessoais nos servidores da Universidade.
 
 Grande parte dos professores do Departamento de Informática - UFPR são partidários
-da ideologia do software livre. Os programas que os alunos desenvolverem sempre 
-são testados na plataforma Linux. Este um curso essencial para os novos alunos. 
+da ideologia do software livre. Os programas que os alunos desenvolverem sempre
+são testados na plataforma Linux. Este um curso essencial para os novos alunos.

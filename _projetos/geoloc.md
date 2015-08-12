@@ -3,6 +3,7 @@ title: Geolocalização
 eixo: pesquisa
 layout: pet
 header: true
+tag: geoloc
 ---
 
 # O que é?

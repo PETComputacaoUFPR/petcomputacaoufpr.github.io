@@ -3,6 +3,7 @@ title: Cartão do R.U.
 eixo: pesquisa
 layout: pet
 header: true
+tag: cartao-ru
 ---
 
 # O que é?
