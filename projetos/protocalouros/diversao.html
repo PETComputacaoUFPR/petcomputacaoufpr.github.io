@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html style="" class="w-mod-js w-mod-no-touch w-mod-video w-mod-no-ios wf-opensans-n3-active wf-opensans-i3-active wf-opensans-n4-active wf-opensans-i4-active wf-opensans-n6-active wf-opensans-i6-active wf-opensans-n7-active wf-opensans-i7-active wf-opensans-n8-active wf-opensans-i8-active wf-roboto-n3-active wf-roboto-n4-active wf-roboto-n5-active wf-active" data-wf-site="55be5391a0ce40890da39d47" data-wf-page="55bfd3af17219f0c2daf27c9">
+   <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta charset="utf-8">
+      <title>Diversao</title>
+      <meta name="description" content="Espaço para praticar programação da Oficina de Vestibulandos do PET Computação">
+      <meta name="keywords" content="programar, vestibulandos, computação, informática biomédica, ufpr, diversão">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" type="text/css" href="css/protocalouros.css">
+      <script src="js/webfont.js"></script>
+      <link href="css/css.css" rel="stylesheet">
+      <script>WebFont.load({
+         google: {
+           families: ["Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic","Roboto:300,regular,500"]
+         }
+         });
+      </script><script type="text/javascript" src="js/modernizr-2.js"></script>
+   <script src="node_modules/skulpt-console/bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
+      <link rel="import" href="node_modules/skulpt-console/skulpt-console.html"/>
+
+   </head>
+   <body>
+      <div class="w-nav navigation-bar" data-collapse="medium" data-animation="default" data-duration="400" data-contain="1">
+         <a class="w-nav-brand brand-link" href="http://pet.inf.ufpr.br/" target="_blank">
+            <h1 class="brand-text">PET Computação ufpr</h1>
+         </a>
+         <div class="w-container">
+            <nav class="w-nav-menu navigation-menu" role="navigation"><a style="max-width: 940px;" class="w-nav-link navigation-link" href="index.html">Página principal</a><a style="max-width: 940px;" class="w-nav-link navigation-link" href="#editor">Editor</a><a style="max-width: 940px;" class="w-nav-link navigation-link" href="#material">Material</a></nav>
+            <div class="w-nav-button hamburger-button">
+               <div class="w-icon-nav-menu"></div>
+            </div>
+         </div>
+         <div class="w-nav-overlay" data-wf-ignore=""></div>
+      </div>
+      <div class="w-section hero-section centered">
+         <div class="w-container" data-ix="new-interaction">
+            <h1 style="opacity: 1; transform: translateX(0px) translateY(0px); transition: opacity 1000ms ease 0s, transform 1000ms ease 0s;" class="hero-heading" data-ix="fade-in-bottom-page-loads">OFICINA DE VESTIBULANDOS</h1>
+            <div style="opacity: 1; transform: translateX(0px) translateY(0px); transition: opacity 1000ms ease 0s, transform 1000ms ease 0s;" class="hero-subheading" data-ix="fade-in-bottom-page-loads">HORA DA DIVERSÃO! Bora programar.</div>
+         </div>
+      </div>
+      <div class="w-section section" id="editor">
+         <div class="w-container">
+            <h2 class="section-heading">Editor (Console Python)</h2>
+            <div class="w-embed w-iframe">
+
+    <skulpt-console canvas="myCanvas">
+
+    print "Ola Protocalouro. Bora programar?"
+
+    </skulpt-console>
+    <h2>Saida</h2>
+    <div "out-div">
+    <pre id="output"></pre>
+    <div id="myCanvas"></div>
+    <div id="errorout"></div>
+    </div>
+    <script>
+        var els = document.getElementsByClassName('CodeMirror');
+        for(var el in els){
+            el = parseInt(el, 10);
+            if(!isNaN(el)) {
+                els[el].CodeMirror.refresh();
+            }
+        }
+
+      </script>
+      <p style="text-align:initial"><span style="color:black">* <b style="color:red;">AVISO</b>: Não use acentuação ou c cedilha.</span></p>
+            </div>
+            <div class="section-title-group"></div>
+         </div>
+      </div>
+      <div class="w-section section materias" id="material">
+         <div class="w-container">
+            <div class="section-title-group">
+               <h2 class="section-heading">Material</h2>
+            </div>
+            <ul class="materias-list">
+               <li>Apostila</li>
+               <li>Exercícios</li>
+            </ul>
+         </div>
+      </div>
+      <div class="w-section footer center">
+         <div class="w-container">
+            <div class="footer-text">&copy; 2015 <br> <a target="_blank" href="http://pet.inf.ufpr.br/" class="link">PET Computação UFPR</a></div>
+         </div>
+      </div>
+      <script type="text/javascript" src="js/jquery.js"></script>
+      <script type="text/javascript" src="js/webflow.js"></script>
+      </a>
+   </body>
+</html>
