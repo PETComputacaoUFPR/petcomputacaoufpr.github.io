@@ -1,15 +1,17 @@
 -   name: Farol
     url: "http://pet.inf.ufpr.br/farol/"
     active: true
+    icon: "fa fa-ship"
     priority: 1
 
 -   name: "Processo Seletivo"
     url: "https://docs.google.com/forms/d/19NUkKzQOzpT9t4yIEXsvJYY_2Sv4rPfI6peIfGeX_x4/viewform"
     active: true
+    icon: "fa fa-users"
     priority: 3
 
 -   name: "Grupos de estudos"
-    url: "projetos/grupos.html"
+    url: "projetos/grupos-de-estudo.html"
     active: true
     icon: "fa fa-calendar"
     priority: 4
