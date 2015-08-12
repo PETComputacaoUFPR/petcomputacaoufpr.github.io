@@ -6,15 +6,14 @@ header: true
 ---
 
 # O que é?
-A oficina de vestibulandos é uma oportunidade de alunos de 2º e 3º ano de ensino
-médio interessados nos cursos de Ciência da Computação e Informática Biomédica
-de participarem de palestras e cursos referentes as atividades e oportunidades
-que os cursos oferecem.
+A Oficina de Vestibulandos é um projeto do grupo PET Computação UFPR. Ele tem como objetivo fornecer aos vestibulandos e a quem mais tiver interesse nos cursos de  Ciência da Computação e Informática Biomédica uma noção aprimorada desses cursos, esclarecendo dúvidas em relação aos dois cursos e também as diferenças em relação aos outros da área. E não apenas isso, a Oficina de Vestibulandos busca proporcionar um pouco do que é ser um cientista da computação e um informata biomédico. Para tal será realizada uma palestra e uma oficina de programação.
 
 # Equipe
 * Ana
 * **André Felipe**
+* Jomaro
 * Davisson
+* Mayara
 * Julia
 * Vytor
 
