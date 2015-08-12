@@ -3,14 +3,17 @@ title: Cartão do R.U.
 eixo: pesquisa
 layout: pet
 header: true
-tag: cartao-ru
 ---
 
 # O que é?
-Desenvolver um sistema de automatização de pagamentos dos Restaurantes Universitários
-da UFPR, através da modelagem de um banco de dados e criação de uma interface web
-para o controle dos créditos. O sistema é baseado na leitura de um código de barras,
-com funcionamento equivalente ao das catracas de ônibus da Prefeitura de Curitiba.
+O projeto foca no desenvolvimento de um framework web full-stack em php, ou seja, dando um suporte quase completo para o desenvolvedor, desde o controle do armazenamento de dados até um auxilio com a camada de visualização. 
+
+## Módulos:
+Gerenciamento de requisição e resposta HTTP - Em desenvolvimento  
+* MVC  
+* DB  
+* Outros 
+
 
 # Equipe
 * **Davisson Paulino**
