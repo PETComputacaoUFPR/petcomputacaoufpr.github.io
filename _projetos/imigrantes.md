@@ -19,4 +19,4 @@ O curso ocorre todo sábado à tarde no prédio da reitoria da UFPR.
 * Gabriel
 * André
 * João Denis
-* Luis Allan
+* **Luis Allan**
