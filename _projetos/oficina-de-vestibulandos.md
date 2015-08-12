@@ -14,9 +14,7 @@ que os cursos oferecem.
 # Equipe
 * Ana
 * **André Felipe**
-* Jomaro
 * Davisson
-* Mayara
 * Julia
 * Vytor
 
