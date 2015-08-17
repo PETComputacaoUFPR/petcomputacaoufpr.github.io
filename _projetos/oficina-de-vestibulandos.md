@@ -12,8 +12,7 @@ A [Oficina de Vestibulandos](http://pet.inf.ufpr.br/protocalouros/) é um projet
 # Equipe
 * Ana
 * **André Felipe**
-* Jomaro
+* Daniel
 * Davisson
-* Mayara
 * Julia
 * Vytor
